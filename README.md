@@ -37,4 +37,4 @@ Server Side API data for RPI sensors and data
     ```
 
 ## Working video
-https://drive.google.com/file/d/1cgwRSEbA8kvf0d2SEfFDAscAzVV32occ/view?usp=sharing
+![](https://drive.google.com/file/d/1cgwRSEbA8kvf0d2SEfFDAscAzVV32occ/view?usp=sharing)
