@@ -35,3 +35,6 @@ Server Side API data for RPI sensors and data
     python manage.py migrate
     python manage.py createsuperuser
     ```
+
+## Working video
+https://drive.google.com/file/d/1cgwRSEbA8kvf0d2SEfFDAscAzVV32occ/view?usp=sharing
